@@ -1,2 +1,2 @@
 Model,Trainable layers,Trainable parameters,Train accuracy (%),Validation accuracy (%),Test accuracy (%),Final train loss,Final validation loss,Test loss,Training time (s)
-MLP,3,1707274,87.06,51.12,52.42,0.3672,2.4017,2.3773,215.0
+MLP,3,1707274,87.41,53.42,52.87,0.3603,2.4153,2.4341,231.4

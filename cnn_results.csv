@@ -1,0 +1,2 @@
+Model,Trainable layers,Trainable parameters,Train accuracy (%),Validation accuracy (%),Best validation accuracy (%),Best validation epoch,Test accuracy (%),Final train loss,Final validation loss,Test loss,Training time (s)
+BaselineCNN,3,60362,88.87,70.58,71.82,14,70.53,0.3169,1.0813,1.121,522.3

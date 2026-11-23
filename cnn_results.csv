@@ -1,2 +1,2 @@
-Model,Trainable layers,Trainable parameters,Train accuracy (%),Validation accuracy (%),Best validation accuracy (%),Best validation epoch,Test accuracy (%),Final train loss,Final validation loss,Test loss,Training time (s)
-BaselineCNN,3,60362,88.87,70.58,71.82,14,70.53,0.3169,1.0813,1.121,522.3
+Model,Model selection,Selected checkpoint,Trainable layers,Trainable parameters,Train accuracy (%),Validation accuracy (%),Best validation accuracy (%),Best validation epoch,Test accuracy (%),Test loss,Final train loss,Final validation loss,Training time (s)
+BaselineCNN,Best validation accuracy,cnn_baseline_best_validation.pth,3,60362,88.87,70.58,71.82,14,70.72,0.9504,0.3169,1.0813,489.4

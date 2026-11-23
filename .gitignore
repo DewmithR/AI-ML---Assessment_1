@@ -1,0 +1,15 @@
+
+
+data/
+
+
+.venv/
+venv/
+
+
+__pycache__/
+*.pyc
+
+.ipynb_checkpoints/
+
+cnn_baseline_checkpoint.pth

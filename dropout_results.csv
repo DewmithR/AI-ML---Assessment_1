@@ -1,0 +1,2 @@
+Experiment,Best Epoch,Train Accuracy (%),Validation Accuracy (%),Test Accuracy (%),Train Loss,Validation Loss,Test Loss,Train-Validation Gap (pp),Parameters,Training Time (seconds)
+Dropout (p=0.3),16,84.69777777777779,75.08,74.33,0.46710546131134034,0.7558958787918091,0.7740935485839844,9.617777777777789,60362,485.2951395209998
